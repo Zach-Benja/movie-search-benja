@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="landing-page" style={{ backgroundImage: `url(${heroBg})` }}>
       <nav className="navbar">
-        <div className="logo">🎬 CineStream</div>
+        <div className="logo">🎬benjaz4KStream</div>
         <ul className="nav-links">
           <li>Home</li>
           <li>Movies</li>
@@ -15,7 +15,7 @@ function App() {
       </nav>
 
       <div className="hero">
-        <h1>CineStream</h1>
+        <h1>StreamWithBenja</h1>
         <p>Discover and explore your favorite movies instantly.</p>
         <div className="buttons">
           <button className="watch-btn">Watch More</button>
@@ -24,7 +24,7 @@ function App() {
       </div>
 
       <footer>
-        <p>© 2025 CineStream. All rights reserved.</p>
+        <p>© 2025 benjaz4KStream. All rights reserved.</p>
       </footer>
     </div>
   );
