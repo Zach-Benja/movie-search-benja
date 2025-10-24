@@ -57,8 +57,8 @@ function App() {
             onMouseEnter={() => setBgImage(movie.image)}
             onMouseLeave={() => setBgImage(heroBg)}
           >
-            <img src={movie.image} alt={movie.title} />
-            <p className="movie-title">{movie.title}</p>
+           <img src={movie.image} alt={movie.title} />
+           <p className="movie-title">{movie.title}</p>
           </div>
         ))}
       </div>
