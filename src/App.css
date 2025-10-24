@@ -73,6 +73,10 @@ body, html, #root {
   border-radius: 20px;
   font-weight: 600;
 }
+.login:hover {
+  background: #b00610;
+  transform: scale(1.05);
+}
 
 /* Hero Section */
 .hero {

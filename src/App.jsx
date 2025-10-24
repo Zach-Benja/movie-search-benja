@@ -11,7 +11,7 @@ import movie5 from './assets/movie5.jpg';
 import movie6 from './assets/movie6.jpg';
 import movie7 from './assets/movie7.jpg';
 import movie8 from './assets/movie8.jpg';
-import movie8 from './assets/movie8.jpg';
+import movie9 from './assets/movie9.jpg';
 
 function App() {
   const [bgImage, setBgImage] = useState(heroBg);
